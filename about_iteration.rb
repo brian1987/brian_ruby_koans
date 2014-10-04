@@ -105,9 +105,6 @@ class AboutIteration < Neo::Koan
     # NOTE: You can create your own collections that work with each,
     # map, select, etc.
 
-#     File.open("example_file.txt") do |file|
-#     upcase_lines = file.map { |line| line.strip.upcase }
-# 2.0.0-p353 :021?>   upcase_lines
   end
 
   # Bonus Question:  In the previous koan, we saw the construct:
@@ -122,5 +119,5 @@ class AboutIteration < Neo::Koan
   #   # code to read 'file'
   #
   # When you get to the "AboutSandwichCode" koan, recheck your answer.
-
+  # adding comment to make changes and get at least one commit 
 end
